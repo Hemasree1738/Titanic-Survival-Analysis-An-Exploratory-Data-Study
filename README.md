@@ -1,5 +1,4 @@
 # Titanic-Survival-Analysis-An-Exploratory-Data-Study
-# Titanic Data Exploration & Analysis
 
 This repository contains an exploratory data analysis (EDA) of the classic Titanic dataset. The goal of this project was to clean the data and identify the primary factors that influenced passenger survival.
 
