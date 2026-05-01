@@ -13,7 +13,7 @@ The analysis is broken down into six core tasks:
 6. **Insights & Sorting**: Identifying the oldest passengers and those who paid the highest fares.
 
 ## Key Insights
-Based on the analysis in `titanic_dataset_2.ipynb`, the following conclusions were reached:
+Based on the analysis in `titanic_dataset.ipynb`, the following conclusions were reached:
 * **Gender**: Females had a significantly higher survival rate than males.
 * **Socio-Economic Status**: Passengers in 1st Class had the highest survival rates.
 * **Family Ties**: People traveling in families were more likely to survive than those traveling alone.
@@ -27,5 +27,5 @@ Based on the analysis in `titanic_dataset_2.ipynb`, the following conclusions we
 ## How to Run
 1. Clone this repository.
 2. Ensure you have `pandas` installed: `pip install pandas`.
-3. Open `titanic_dataset_2.ipynb` in Jupyter Notebook or VS Code to view the full analysis.
+3. Open `titanic_dataset.ipynb` in Jupyter Notebook or VS Code to view the full analysis.
 
